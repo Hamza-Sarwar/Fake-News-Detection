@@ -12,3 +12,7 @@ If you want to run the code:
 	-> open Honours Project - Fake News Detection.ipynb
 	-> run each cell manually by pressing the RUN button or go to Kernel -> restart and run all (note: might take ~2 hours, feel free to comment out lines)
 	-> depending on where you stored the csv file (data set) you might have to change the path in the code (should not be the case if you just unpacked everything as is)
+
+
+If anyone require data then feel free to ask 
+e-mail : hamzasarwar129@gmail.com
