@@ -1,4 +1,4 @@
-#Fake News Detection
+## Fake News Detection
 
 This is the source code and data for Fake News Detection. The project was concerned around the topic of fake news detection on the internet. Additionally, a survey among 164 participants was conducted to gather data on people's news consumption behaviour and their experience with fake news on the internet. Participants were asked to categorise six news headlines into the categories of fake and real news. Several machine learning classifiers have been trained and made predictions on the same six news headlines. Thereafter, humans' and the software's effectivity of identifying fake news were compared. Lastly, recommendations for social media platforms on how to handle fake news were created based on those results.
 
